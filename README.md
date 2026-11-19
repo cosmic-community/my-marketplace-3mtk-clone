@@ -16,7 +16,7 @@ A modern vacation rental marketplace built with Next.js 16 and Cosmic. Browse ca
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a933e97aa0cf85dfc29f260&clone_repository=6a93413baa0cf85dfc29f31f)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6aff1f7d9d56d8c2d8f599d7&clone_repository=6a93413baa0cf85dfc29f31f)
 
 ## Prompts
 
